@@ -1,0 +1,4 @@
+matplotlib
+numpy
+mpl-interactions
+Pillow
